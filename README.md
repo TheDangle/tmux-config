@@ -1,8 +1,9 @@
 # My Custom Tmux Theme
 
-A personal, dark, and colorful theme for Tmux, based off of the Kanagawa colortheme and designed to be easy on the eyes and enhance productivity.
+A personal, dark, and colorful theme for Tmux, designed to be easy on the eyes and enhance productivity.
 
-This theme is based on a custom palette with a warm, earthy aesthetic, inspired by autumnal colors.
+This theme uses colors from the Kanagawa colortheme with a warm, earthy aesthetic, inspired by autumnal colors.
+Note - I am not using all the colors!
 
 ## Features
 
